@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    font-family: serif;
+}
+header{
+    background-color: rgb(127, 200, 255);
+}
+
+html{
+    font-size: 62.5%;
+}
+.home-img{
+    border-radius: 50%;
+}
+
+.home-img img{
+    position: relative;
+    width: 16vw;
+    border-radius: 50%;
+    box-shadow: 0 0 25px solid #b74b4b;
+    cursor: pointer;
+    transition: 0.2s linear;
+    margin-top:  1cm;
+}
+body{
+    background-color:whitesmoke;
+
+}
+nav a{
+    font-size: 2rem;
+    color:  #000000;
+    margin-left: 1rem;
+    font-weight: 600 ;
+    text-decoration: underline 1.3px;
+    position: static 3px;
+   
+    
+}
+.home-content h1{
+    font-size: 2.1rem;
+    color: rgb(177, 40, 40);
+    margin-top: -5cm;
+    margin-left: 9cm;
+    text-shadow:3px 2px rgb(0, 0, 0);
+    font-weight: 600;
+    font-size: 4rem;
+}
+.home-content h2{
+    font-size: 1.7rem;
+    color: rgb(177, 40, 40);
+    margin-top: 0.3cm;
+    margin-left: 13cm;
+}
+.home-content h3{
+    color: rgb(0, 0, 0);
+    margin-left: 9cm;
+    font-size: 2rem;
+    font-weight: 500;
+}
+.typing-text {
+    color:#000000;
+    font-size:3rem ;
+    padding-top: 2cm;
+    margin-left: 1cm;
+    text-decoration: underline 3px;
+}
+h3{
+    color:#000000;
+    font-size:2rem ;
+    margin-top: 0.3cm;
+    font-weight: 100;
+    line-height: 0.7cm;
+    word-spacing: 0.1cm;
+}
+
+
+
+

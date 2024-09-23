@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+*{
+   
+    font-family: serif;
+}
+body{
+    background-image: url('b1.png');
+   
+}
+a{
+    font-size: 5rem;
+   color: rgb(177, 40, 40);
+   text-decoration: underline 5px wheat;
+   margin-top: 10cm;
+   margin-left: 12cm;
+ }
