@@ -9,9 +9,10 @@ body{
    
 }
 a{
-    font-size: 5rem;
-   color: rgb(177, 40, 40);
-   text-decoration: underline 5px wheat;
-   margin-top: 10cm;
-   margin-left: 12cm;
- }
+    color: rgb(177, 40, 40);
+    font-size: 8rem;
+    text-decoration: underline 7px black;
+    margin-left: 5cm;
+    margin-top: 7cm;
+    position: absolute;
+}
